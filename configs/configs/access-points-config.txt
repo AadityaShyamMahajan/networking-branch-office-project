@@ -1,0 +1,14 @@
+# Admin Department Wi-Fi
+SSID: admin-wifi
+Security: WPA2-PSK
+Password: admin@123
+
+# Finance Department Wi-Fi
+SSID: finance-wifi
+Security: WPA2-PSK
+Password: finance@123
+
+# Customer Service Department Wi-Fi
+SSID: cs-wifi
+Security: WPA2-PSK
+Password: customer@123
