@@ -42,9 +42,6 @@ Switch Access & Trunk Port Configuration
 
 ICMP Testing (Ping)
 
-Network Topology
-
-Upload your diagram in the screenshots folder and link it here later.
 
 Subnetting Details
 | Subnet | Network ID    | Host Range | Broadcast ID | VLAN |
